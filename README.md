@@ -1,4 +1,4 @@
-Netflix Clone build with Next.js, Typescript, Tailwind.
+Netflix Clone build with Next.js, Typescript & Tailwind.
 Also built with server side rendering
 
 View live demo: https://netflix-clone-ivory-three.vercel.app/
